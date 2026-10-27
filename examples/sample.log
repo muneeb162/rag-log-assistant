@@ -1,0 +1,4 @@
+2026-10-27T09:14:02Z ERROR api-gateway  upstream request failed after 30000ms
+2026-10-27T09:14:02Z ERROR orders-svc   could not acquire connection from pool (waited 30s)
+2026-10-27T09:14:03Z FATAL orders-svc   FATAL: sorry, too many clients already
+2026-10-27T09:14:05Z WARN  orders-svc   p99 latency 31.4s (threshold 2s)

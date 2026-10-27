@@ -1,0 +1,4 @@
+numpy>=1.26
+# Only needed to generate answers with a real model; the test suite and
+# retrieval-only mode run without it.
+openai>=1.40
